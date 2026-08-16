@@ -1,0 +1,6 @@
+name= "Ellen" #letters or words are string, written in single or double quotes
+print(name)
+name= "Monalisa"
+print(name)
+name="Alexander the third"
+print(name)

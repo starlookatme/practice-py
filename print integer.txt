@@ -1,0 +1,6 @@
+age=100 #integer #this symbol is like a note it does not change anything , it is post it note
+print(age)
+age=1953 #the word age, price, name are variables, on the right side of the = sign are its values
+print(age) 
+age=1863
+print(age)

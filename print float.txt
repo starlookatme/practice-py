@@ -1,0 +1,6 @@
+price=7.78 #it is float cause it is not whole number
+print(price)
+price=18.22
+print(price)
+price=21.98
+print(price)

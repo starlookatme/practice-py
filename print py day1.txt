@@ -1,3 +1,4 @@
 print(502 404 737)
-print("I love the world like how my parents love me")
+print("I love the world like how my parents love me") #this is called comment and compiler will ignore it, integer, float, string...are called data types
 print('Would the trees stay green for me?')
+
