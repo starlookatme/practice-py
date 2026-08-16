@@ -1,5 +1,2 @@
 print("my brain is not braining")
-print("i love the world just like how my parents love me")
-print(30)
-print('the color of the seas and the color of your eyes are blue, both are the objects of my affection')
-print(202, 404, 232, 434)
+
