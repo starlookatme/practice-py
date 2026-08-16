@@ -1,4 +1,2 @@
 print("my brain is not braining")
-print(030)
-print('the color of the seas and the color of your eyes are blue, both are the objects of my affection')
-print(202 404 232 434)
+
